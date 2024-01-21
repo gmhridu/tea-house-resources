@@ -2,8 +2,7 @@
   "name":"tea-shop",
   "main": "./src/index.html",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/index.css --watch ",
-    "build": "npx tailwindcss -i ./src/input.css -o ./dist/index.css --watch"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/index.css --watch "
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
